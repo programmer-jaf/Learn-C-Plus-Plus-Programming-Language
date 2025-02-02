@@ -112,7 +112,7 @@ Want to contribute to this project? Follow these steps:
 2. **Navigate to the Project Folder**
 
 ```bash
-  cd cpp-learning-guide
+  cd Learn-C-Plus-Plus-Programming-Language
 ```
 
 3. **Create a New Branch**
