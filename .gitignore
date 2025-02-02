@@ -1,0 +1,55 @@
+# Compiled Object files, Static and Dynamic libs
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.log
+*.tmp
+*.~*
+
+# CMake build and cache files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Binary build directories
+/bin/
+/build/
+/dist/
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# Coverage & profiling
+*.gcda
+*.gcno
+*.gcov
+
+# Temporary files
+*.DS_Store
+Thumbs.db
+
+# Clang compile database
+compile_commands.json
